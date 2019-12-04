@@ -1,2 +1,2 @@
-# LWF-Net
+# LFB-Net
 # Under construction
