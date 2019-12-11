@@ -1,0 +1,8 @@
+keras
+tensorflow
+matplotlib
+numpy
+pillow
+skimage
+nibable
+pandas
