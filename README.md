@@ -2,7 +2,7 @@
 ![Screenshot](lfb-net_integration.JPG)
 # Under construction
 
-Paper: [Learning With Context Feedbackloop for Robust Medical image segmentation](https://ieeexplore.ieee.org/document/9358229)
+# [Learning With Context Feedbackloop for Robust Medical image segmentation](https://ieeexplore.ieee.org/document/9358229)
 
 
 Applications to: 
