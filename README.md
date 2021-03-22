@@ -6,8 +6,8 @@
 
 
 Applications to: 
-1. [Segmentation of inner ear on CT scan](https://ieeexplore.ieee.org/document/9358229)
-2. [Segmentation of prosate on CT scan](https://ieeexplore.ieee.org/document/9358229)
-3. [Cardiac image segmentation on cine-MRI](https://ieeexplore.ieee.org/document/9358229)
-4. [Echocardiographic image segmentation](https://ieeexplore.ieee.org/document/9358229)
+1. [Fully automatic inner ear segmentation from CT scan](https://ieeexplore.ieee.org/document/9358229)
+2. [Fully automatic prosate segmentation from CT scan](https://ieeexplore.ieee.org/document/9358229)
+3. [Fully automatic Cardiac image segmentation from cine-MRI](https://ieeexplore.ieee.org/document/9358229)
+4. [Fully automatic Echocardiographic image segmentation](https://ieeexplore.ieee.org/document/9358229)
 
