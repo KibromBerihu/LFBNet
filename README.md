@@ -1,4 +1,4 @@
-# LFB-Net
+# LFBNet
 ![Screenshot](lfb-net_integration.JPG)
 ## Under construction
 
